@@ -24,5 +24,7 @@ Als Diagnostiker:in möchte ich zwischen verschiedenen Tests auswählen um versc
 
 ## Beschreibung der Funktionalen Anforderungen mittels User Stories:
 **1. Patientenauswahl für den Test:** Als Diagnostiker:in möchte ich die richtige Patientin auswählen können, um den passenden Test für sie durchzuführen. Dazu benötige ich eine Benutzeroberfläche, in der ich nach der Patientin suchen und sie auswählen kann.
+
 **2. Leistungstest anlegen und startbereit machen:** Nachdem ich die Patientin ausgewählt und die erforderlichen Daten abgefragt habe, möchte ich den Leistungstest anlegen und sicherstellen, dass er startbereit ist. Dies beinhaltet die Konfiguration des Tests und die Bereitstellung der notwendigen Ressourcen.
+
 **3. Testergebnisse speichern und verwalten:** Als Diagnostiker:in möchte ich die Testergebnisse für jede Patientin speichern und verwalten können. Dazu benötige ich eine Datenbank oder ein System, in dem ich die Ergebnisse speichern und bei Bedarf abrufen kann.
